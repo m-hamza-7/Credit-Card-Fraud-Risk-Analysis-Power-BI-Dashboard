@@ -99,8 +99,10 @@ Based on insights from this analysis, organizations can take the following actio
 ---
 
 ## 🛠️ Tools & Technologies
-- **Power BI Desktop** (Data Visualization & Dashboarding)  
-- **Excel/CSV** (Data Source)  
+- **Power BI Desktop**  
+  - Data Import & Cleaning (Power Query)  
+  - Data Modeling & DAX Measures  
+  - Interactive Visualizations & Dashboard Design  
 
 ---
 
