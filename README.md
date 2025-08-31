@@ -32,20 +32,24 @@ The dashboard highlights suspicious transactions, identifies top fraud types, an
 ### 📈 Visual Insights
 - **Total Transaction Amount by Fraud Type & Category**  
   - Breakdown across fraud types (Skimming, Phishing, Identity Theft, etc.)  
-  - Transaction categories include *E-commerce, Apparel, Food Delivery, Electronics, Groceries, Transportation*.  
-
+  - Transaction categories include *E-commerce, Apparel, Food Delivery, Electronics, Groceries, Transportation*.
+![Fraud Type & Category](https://github.com/m-hamza-7/Credit-Card-Fraud-Risk-Analysis-Power-BI-Dashboard/blob/main/Total%20Transaction%20Amount%20by%20Fraud%20Type%20%26%20Category.png)
+ 
 - **Total Transaction Amount by Fraud Risk**  
   - Donut chart showing distribution of risk levels:  
     - Low (42.42%)  
     - Medium (27.93%)  
     - High (18.81%)  
-    - Critical (10.85%)  
+    - Critical (10.85%)
+![Fraud Risk](https://github.com/m-hamza-7/Credit-Card-Fraud-Risk-Analysis-Power-BI-Dashboard/blob/main/Total%20Transaction%20Amount%20by%20Fraud%20Risk.png)
 
 - **Fraudulent Transactions by State**  
-  - Bar chart comparing state-level fraud activities (e.g., Maharashtra, Karnataka, Rajasthan).  
+  - Bar chart comparing state-level fraud activities (e.g., Maharashtra, Karnataka, Rajasthan).
+![Fraud by State](https://github.com/m-hamza-7/Credit-Card-Fraud-Risk-Analysis-Power-BI-Dashboard/blob/main/Fraudulent%20Transactions%20by%20State.png)
 
 - **Fraudulent Transactions by Month**  
   - Line chart showing monthly fraud patterns with spikes in **June** and **December**.  
+![Fraud by Month](https://github.com/m-hamza-7/Credit-Card-Fraud-Risk-Analysis-Power-BI-Dashboard/blob/main/Fraudulent%20Transactions%20by%20Month.png)
 
 ---
 
