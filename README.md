@@ -111,7 +111,7 @@ Based on insights from this analysis, organizations can take the following actio
 
 ## 📂 How to Use
 1. Clone this repository.  
-2. Open the `.pbix` file in **Power BI Desktop**.  
+2. Open the `.pbix` <a href="https://github.com/m-hamza-7/Credit-Card-Fraud-Risk-Analysis-Power-BI-Dashboard/blob/main/Dashboard-Credit%20Card%20Fraud%20Risk%20Analysis.pbix">file</a> in **Power BI Desktop**.  
 3. Use the **filter panel** (Fraud Type, State, Merchant) to explore fraud patterns interactively.  
 4. Analyze KPIs, charts, and visualizations to gain insights into fraud risk.  
 
