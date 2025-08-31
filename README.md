@@ -81,7 +81,7 @@ The dashboard highlights suspicious transactions, identifies top fraud types, an
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot]([./3a3df3f2-d8fe-4ff2-8bc3-f50df0b22b38.png](https://github.com/m-hamza-7/Credit-Card-Fraud-Risk-Analysis-Power-BI-Dashboard/blob/main/Main.png))
+![Dashboard Screenshot]([./3a3df3f2-d8fe-4ff2-8bc3-f50df0b22b38.png](https://github.com/m-hamza-7/Credit-Card-Fraud-Risk-Analysis-Power-BI-Dashboard/blob/main/Main.png)](https://github.com/m-hamza-7/Credit-Card-Fraud-Risk-Analysis-Power-BI-Dashboard/blob/main/Main.png)
 
 ---
 
